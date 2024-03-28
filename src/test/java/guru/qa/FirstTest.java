@@ -10,6 +10,6 @@ public class FirstTest {
     }
     @Test
     void secondTest() {
-        Assertions.assertFalse(6 < 2)
+        Assertions.assertFalse(5 < 2);
     }
 }
